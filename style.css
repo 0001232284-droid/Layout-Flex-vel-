@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fallback, sans-serif;
+}
+
+body {
+    background-color: #0a75df;
+    color: #1e293b;
+    line-height: 1.;
+}
+
+html,body{
+    height: 100%;
+}
+
+.logo{
+  display: flex;
+   top: 5%;
+   left: 5%;
+   align-items: center
+   
+}
+
+.logo img {
+    width: 160px;
+   
+}
+
+.baner img {
+    width: 101%;
+    height: 80;
+  
+}
+
+nav a {
+    margin-right: 20%;
+    color: #00ff80;
+    align-items: center
+}
